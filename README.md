@@ -1,2 +1,2 @@
 # Calculator-App
-Callculator app in react native 
+Calculator app in react native 
